@@ -1,7 +1,7 @@
 Dsa 7 Graph: Minimum Spanning Tree 
-Name:- Jyoti Rajesh Makwan 
+
 Sub :- dsa 
-Name:- Jyoti Rajesh Makwan
+Name:- mayur gawatre
 Assingment no :-7
 
 
